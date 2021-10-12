@@ -20,11 +20,10 @@
   width: 30em;
   text-align: justify;
 }
-.results {
+.results-container {
   width: 30em;
-  word-wrap:break-word;
-  white-space:nowrap;
-}
+  white-space: nowrap;
+} 
 .mdui-btn {
   margin: 0 auto;
 }
