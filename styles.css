@@ -23,6 +23,7 @@
 .results {
   width: 30em;
   word-wrap:break-word;
+  white-space:nowrap;
 }
 .mdui-btn {
   margin: 0 auto;
