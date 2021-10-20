@@ -81,9 +81,20 @@ let currentSlide = 0;
 
 const questions = [
   {
+    question: "在我国司法结构中，下面哪一个不是司法机关？",
+    answers: {
+      a: "公安",
+      b: "检察院",
+      c: "法院",
+      d: "稽查局"
+    },
+    correctAnswer: "d",
+    analysis: "公、检、法、司四大机关，共同构成了我国的司法体系。"
+  },
+  {
     question: "小勇尚年幼，家人因为新冠肺炎疫情被隔离，谁来照顾他？",
     answers: {
-      a: "周春",
+      a: "学校",
       b: "居民委员会",
       c: "孤儿院"
     },
